@@ -79,10 +79,6 @@
       (max-val board)
       (recur res player))))
 
-(defn random-player [board]
-  (rand-nth (keys directions)))
-
-
 ;;--------------AI-------------------------
 
 (def coefs (take 16 (iterate #(* 0.25 %) 1)))
