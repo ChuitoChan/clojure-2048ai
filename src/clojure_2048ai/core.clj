@@ -83,7 +83,7 @@
   (rand-nth (keys directions)))
 
 
-;; AI
+;;--------------AI-------------------------
 
 (def coefs (take 16 (iterate #(* 0.25 %) 1)))
 
