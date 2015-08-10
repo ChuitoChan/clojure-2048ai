@@ -1,14 +1,10 @@
 # clojure-2048ai
 
-A Clojure library designed to ... well, that part is up to you.
+An implementation of the game 2048 and its AI in Clojure.
 
-## Usage
-
-FIXME
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 ChuitoChan
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License either version 1.0.
